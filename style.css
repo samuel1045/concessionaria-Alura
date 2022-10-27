@@ -1,0 +1,51 @@
+body { 
+    text-align: center;
+    background:#ff0000
+}
+p {
+    background: #ff0000
+
+}
+emstrong {
+    color: red;
+}
+#banner {
+width: 50%
+}
+
+.principal{
+    background-color: #f8f8f8;
+}
+
+h1{
+    text-align: center;
+    height: 50px;
+    border-top: 4px solid #ffffff;
+    padding-top: 20px;
+    margin-left: 30px;
+    : ;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 30px;
+}
+
+.imagembeneficios {
+    wicth: 50%;
+}
+
+
+.itens {
+    font-size: 15px;
+    font-style:italic;
+    color:#000000
+}
+
+ul{
+    display inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%
+}
+ 
